@@ -1,8 +1,12 @@
-## Welcome to GitHub Pages
+## Project Page
 
-You can use the [editor on GitHub](https://github.com/jliang33-web/jliang33-web.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+[GitHub Editor](https://github.com/jliang33-web/jliang33-web.github.io/edit/main/index.md)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Quick Links:
+[Jekyll](https://jekyllrb.com/)
+
+
+
 
 ### Markdown
 
