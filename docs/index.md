@@ -1,6 +1,6 @@
 ## Project Page
 
-[GitHub Editor](https://github.com/jliang33-web/jliang33-web.github.io/edit/main/index.md)
+[GitHub Editor](https://github.com/jliang33-web/jliang33-web.github.io/edit/main/docs/index.md)
 
 Quick Links:
 [Jekyll](https://jekyllrb.com/)
@@ -13,7 +13,7 @@ Quick Links:
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block!!
+Syntax highlighted code block!!!
 
 # Header 1
 ## Header 2
