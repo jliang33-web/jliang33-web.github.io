@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: Project Jackie
 description: Quick description under page title.
+plugins:
+- jekyll-remote-theme
