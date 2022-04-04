@@ -14,5 +14,6 @@ Quick Links:
 
 # New South Wales Relief Map Renders
 
-Rendered at a 26% resolution
+Rendered at a 26% resolution, feat. Lord Howe Island off the far far east.
 
+![New South Wales Render](/assets/nsw 26 render.png)
