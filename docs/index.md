@@ -17,3 +17,7 @@ Quick Links:
 Rendered at a 26% resolution, feat. Lord Howe Island off the far far east.
 
 ![New South Wales Render](/assets/nsw 26 render.png)
+
+Rendered at 30% resoltuoin.
+
+![New South Wales Render](/assets/nsw render 30.png)
